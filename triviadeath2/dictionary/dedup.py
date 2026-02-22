@@ -1,0 +1,8 @@
+n = open('fin.txt','r',encoding='utf-8')
+text = n.read()
+listr = text.split("\n")
+dictl = dict(map(lambda x: (x, None), listr))
+words = "\n".join(list(dictl.keys()))
+n = open('findedup.txt','w',encoding='utf-8')
+n.write(words)
+n.close()
