@@ -15,7 +15,6 @@ The repository includes dedicated scripts for specific mini-games across various
 * **Dictionarium** (`ridictionary`)
 * **Joke Boat** (`jokeboat`)
 * **Push The Button** (`pushthebutton`)
-* **Role Models** (`usthem`)
 * **Trivia Murder Party 2** (`triviadeath2`)
 
 **The Jackbox Party Pack 7 (2020)**
@@ -34,6 +33,7 @@ The repository includes dedicated scripts for specific mini-games across various
 
 **The Jackbox Party Pack 10 (2023)**
 * **Timejinx** (`timetrivia`)
+* **Hypnotorious** (`usthem`)
 
 ## 🛠️ Script Types & Functionality
 
