@@ -57,3 +57,6 @@ While each game has its own unique data structure, the repository generally uses
 3. Run the generator script:
    ```bash
    python make.py
+
+## 📒 To Do
+* Rewrite scripts in JS in order to implement them in a specialized collaborative translation web-based tool.
